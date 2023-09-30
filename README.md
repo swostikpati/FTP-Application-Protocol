@@ -13,3 +13,6 @@ The FTP client is divided into two components:
 **FTP User Interface:** This component provides a simple command-line interface for users to interact with the FTP server. Users can input commands to perform various operations, such as uploading, downloading, listing files, and navigating directories on the server.
 
 **FTP Client Core:** The core client component communicates with the FTP server, sending requests and receiving responses. It manages the control connection with the server and handles data transfer using select() and fork() as appropriate.
+
+## Academic Use Notice
+Kindly be aware that this project was created as part of an educational assignment within a course offered by NYU Abu Dhabi's Computer Science department. It is intended for educational and learning purposes. **Using this code for academic submissions or assignments is strictly prohibited**. I encourage students to use this repository as a learning resource and to write their own code for assignments to uphold academic integrity.
